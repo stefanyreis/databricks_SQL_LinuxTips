@@ -1,1 +1,1 @@
-# databrix_SQL_LinuxTips
+# databricks_SQL_LinuxTips
